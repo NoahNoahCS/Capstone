@@ -23,9 +23,9 @@
 ### Methodology
 
 ... High-level diagrams of entire process:
-*     MRI Data 
--       1. Image Acquisition and Preprocessing
--        2. Feature Extraction
+*     `MRI Data`
+      - 1. Image Acquisition and Preprocessing
+      - 2. Feature Extraction
 -        3. Feature Transformation
 -        4. Data splitting
 -        5. SVM Model Training
