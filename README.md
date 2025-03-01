@@ -24,17 +24,17 @@
 
 ... High-level diagrams of entire process:
 ...     MRI Data 
-        1. Image Acquisition and Preprocessing
-        2. Feature Extraction
-        3. Feature Transformation
-        4. Data splitting
-        5. SVM Model Training
-        6. Model Evaluation
+...        1. Image Acquisition and Preprocessing
+...        2. Feature Extraction
+...        3. Feature Transformation
+...        4. Data splitting
+...        5. SVM Model Training
+...        6. Model Evaluation
 ...     Patient Data
-        1. Combining data frames 
-        2. EDA
-        3. Model Creation
-        4. Model Evaluation
+...        1. Combining data frames 
+...        2. EDA
+...        3. Model Creation
+...        4. Model Evaluation
 ...     various modelling directions
 ...     various prototyping directions
 
